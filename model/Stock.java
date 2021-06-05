@@ -1,4 +1,7 @@
 package com.oopsProblems.model;
+/**
+ * This is the file having Inventory Details.
+ */
 
 public class Stock {
 	
